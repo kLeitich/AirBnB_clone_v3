@@ -59,7 +59,7 @@ Where we are creating a command line interpretor to access objects that will sto
 
 **Authors**
 
-- **Hassan Juma**, \<okothhassanjuma@gmail.com>, @okothhassanjuma
+- **Kevin leitich**, \<kevin.leitich@student.moringaschool.com>, @leitichleiz
 - **Jennifer Huang**,  \<133@holbertonschool.com>, @okothhassanjuma
 - **Alexa Orrico**, \<210@holbertonschool.com>, @okothhassanjuma
 - **Joann Vuong**, \<130@holbertonschool.com>, @earthtojhuang
